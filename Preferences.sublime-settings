@@ -1,0 +1,12 @@
+{
+	"anaconda_linting": false,
+	"color_scheme": "Packages/Colorsublime - Themes/Monokai-HighFructose.tmTheme",
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"python_interpreter": "d:/program/python27/python.exe",
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
+}
